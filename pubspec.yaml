@@ -38,8 +38,12 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - image/argentina.png
-    - image/Australia.png
+        - image/argentina.png
+        - image/Australia.png
+        - image/card.png
+        - image/post.png
+        - image/shot.png
+        - image/wistles.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.io/assets-and-images/#resolution-aware.
